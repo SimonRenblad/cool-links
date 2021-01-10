@@ -7,5 +7,6 @@
 * [Algorithms in Python](https://github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 * [Elliptic Curve Cryptography](https://www.allaboutcircuits.com/technical-articles/elliptic-curve-cryptography-in-embedded-systems/)
 * [Ethereum App Tutorial](https://www.tutorialspoint.com/ethereum/index.htm)
+* [Distributed Back-end](https://github.com/christiandavid/nodejs-chat-microservice)
 
 
